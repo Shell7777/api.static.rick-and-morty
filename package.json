@@ -1,17 +1,22 @@
 {
   "name": "api-rickymorty",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"No tests yet\"",
-    "start": "node index.js",
-    "dev": "node --watch index.js"
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "dev:less" : "npx serverless@3 offline"
   },
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "serverless-http": "^4.0.0"
   },
-  "type": "commonjs"
+  "type": "commonjs",
+  "devDependencies": {
+    "serverless-offline": "^14.4.0"
+  }
 }
