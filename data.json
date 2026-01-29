@@ -1,0 +1,1196 @@
+[
+    {
+        "id": 1,
+        "name": "Rick Sanchez",
+        "origin": "Earth (C-137)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Morty Smith",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Summer Smith",
+        "origin": "Earth (Replacement Dimension)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Beth Smith",
+        "origin": "Earth (Replacement Dimension)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Jerry Smith",
+        "origin": "Earth (Replacement Dimension)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/5.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Abadango Cluster Princess",
+        "origin": "Abadango",
+        "image": "https://rickandmortyapi.com/api/character/avatar/6.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "Abradolf Lincler",
+        "origin": "Earth (Replacement Dimension)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/7.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "Adjudicator Rick",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/8.jpeg"
+    },
+    {
+        "id": 9,
+        "name": "Agency Director",
+        "origin": "Earth (Replacement Dimension)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/9.jpeg"
+    },
+    {
+        "id": 10,
+        "name": "Alan Rails",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/10.jpeg"
+    },
+    {
+        "id": 11,
+        "name": "Albert Einstein",
+        "origin": "Earth (C-137)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/11.jpeg"
+    },
+    {
+        "id": 12,
+        "name": "Alexander",
+        "origin": "Earth (C-137)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/12.jpeg"
+    },
+    {
+        "id": 13,
+        "name": "Alien Googah",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/13.jpeg"
+    },
+    {
+        "id": 14,
+        "name": "Alien Morty",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/14.jpeg"
+    },
+    {
+        "id": 15,
+        "name": "Alien Rick",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/15.jpeg"
+    },
+    {
+        "id": 16,
+        "name": "Amish Cyborg",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/16.jpeg"
+    },
+    {
+        "id": 17,
+        "name": "Annie",
+        "origin": "Earth (C-137)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/17.jpeg"
+    },
+    {
+        "id": 18,
+        "name": "Antenna Morty",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/18.jpeg"
+    },
+    {
+        "id": 19,
+        "name": "Antenna Rick",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/19.jpeg"
+    },
+    {
+        "id": 20,
+        "name": "Ants in my Eyes Johnson",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/20.jpeg"
+    },
+    {
+        "id": 21,
+        "name": "Aqua Morty",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/21.jpeg"
+    },
+    {
+        "id": 22,
+        "name": "Aqua Rick",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/22.jpeg"
+    },
+    {
+        "id": 23,
+        "name": "Arcade Alien",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/23.jpeg"
+    },
+    {
+        "id": 24,
+        "name": "Armagheadon",
+        "origin": "Signus 5 Expanse",
+        "image": "https://rickandmortyapi.com/api/character/avatar/24.jpeg"
+    },
+    {
+        "id": 25,
+        "name": "Armothy",
+        "origin": "Post-Apocalyptic Earth",
+        "image": "https://rickandmortyapi.com/api/character/avatar/25.jpeg"
+    },
+    {
+        "id": 26,
+        "name": "Arthricia",
+        "origin": "Purge Planet",
+        "image": "https://rickandmortyapi.com/api/character/avatar/26.jpeg"
+    },
+    {
+        "id": 27,
+        "name": "Artist Morty",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/27.jpeg"
+    },
+    {
+        "id": 28,
+        "name": "Attila Starwar",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/28.jpeg"
+    },
+    {
+        "id": 29,
+        "name": "Baby Legs",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/29.jpeg"
+    },
+    {
+        "id": 30,
+        "name": "Baby Poopybutthole",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/30.jpeg"
+    },
+    {
+        "id": 31,
+        "name": "Baby Wizard",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/31.jpeg"
+    },
+    {
+        "id": 32,
+        "name": "Bearded Lady",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/32.jpeg"
+    },
+    {
+        "id": 33,
+        "name": "Beebo",
+        "origin": "Venzenulon 7",
+        "image": "https://rickandmortyapi.com/api/character/avatar/33.jpeg"
+    },
+    {
+        "id": 34,
+        "name": "Benjamin",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/34.jpeg"
+    },
+    {
+        "id": 35,
+        "name": "Bepisian",
+        "origin": "Bepis 9",
+        "image": "https://rickandmortyapi.com/api/character/avatar/35.jpeg"
+    },
+    {
+        "id": 36,
+        "name": "Beta-Seven",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/36.jpeg"
+    },
+    {
+        "id": 37,
+        "name": "Beth Sanchez",
+        "origin": "Earth (C-500A)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/37.jpeg"
+    },
+    {
+        "id": 38,
+        "name": "Beth Smith",
+        "origin": "Earth (C-137)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/38.jpeg"
+    },
+    {
+        "id": 39,
+        "name": "Beth Smith",
+        "origin": "Earth (Evil Rick's Target Dimension)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/39.jpeg"
+    },
+    {
+        "id": 40,
+        "name": "Beth's Mytholog",
+        "origin": "Nuptia 4",
+        "image": "https://rickandmortyapi.com/api/character/avatar/40.jpeg"
+    },
+    {
+        "id": 41,
+        "name": "Big Boobed Waitress",
+        "origin": "Fantasy World",
+        "image": "https://rickandmortyapi.com/api/character/avatar/41.jpeg"
+    },
+    {
+        "id": 42,
+        "name": "Big Head Morty",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/42.jpeg"
+    },
+    {
+        "id": 43,
+        "name": "Big Morty",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/43.jpeg"
+    },
+    {
+        "id": 44,
+        "name": "Body Guard Morty",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/44.jpeg"
+    },
+    {
+        "id": 45,
+        "name": "Bill",
+        "origin": "Earth (C-137)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/45.jpeg"
+    },
+    {
+        "id": 46,
+        "name": "Bill",
+        "origin": "Earth (Replacement Dimension)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/46.jpeg"
+    },
+    {
+        "id": 47,
+        "name": "Birdperson",
+        "origin": "Bird World",
+        "image": "https://rickandmortyapi.com/api/character/avatar/47.jpeg"
+    },
+    {
+        "id": 48,
+        "name": "Black Rick",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/48.jpeg"
+    },
+    {
+        "id": 49,
+        "name": "Blamph",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/49.jpeg"
+    },
+    {
+        "id": 50,
+        "name": "Blim Blam",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/50.jpeg"
+    },
+    {
+        "id": 51,
+        "name": "Blue Diplomat",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/51.jpeg"
+    },
+    {
+        "id": 52,
+        "name": "Blue Footprint Guy",
+        "origin": "Post-Apocalyptic Earth",
+        "image": "https://rickandmortyapi.com/api/character/avatar/52.jpeg"
+    },
+    {
+        "id": 53,
+        "name": "Blue Shirt Morty",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/53.jpeg"
+    },
+    {
+        "id": 54,
+        "name": "Bobby Moynihan",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/54.jpeg"
+    },
+    {
+        "id": 55,
+        "name": "Boobloosian",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/55.jpeg"
+    },
+    {
+        "id": 56,
+        "name": "Bootleg Portal Chemist Rick",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/56.jpeg"
+    },
+    {
+        "id": 57,
+        "name": "Borpocian",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/57.jpeg"
+    },
+    {
+        "id": 58,
+        "name": "Brad",
+        "origin": "Earth (Replacement Dimension)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/58.jpeg"
+    },
+    {
+        "id": 59,
+        "name": "Brad Anderson",
+        "origin": "Earth (Replacement Dimension)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/59.jpeg"
+    },
+    {
+        "id": 60,
+        "name": "Calypso",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/60.jpeg"
+    },
+    {
+        "id": 61,
+        "name": "Campaign Manager Morty",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/61.jpeg"
+    },
+    {
+        "id": 62,
+        "name": "Canklanker Thom",
+        "origin": "Gromflom Prime",
+        "image": "https://rickandmortyapi.com/api/character/avatar/62.jpeg"
+    },
+    {
+        "id": 63,
+        "name": "Centaur",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/63.jpeg"
+    },
+    {
+        "id": 64,
+        "name": "Chris",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/64.jpeg"
+    },
+    {
+        "id": 65,
+        "name": "Chris",
+        "origin": "Rick's Battery Microverse",
+        "image": "https://rickandmortyapi.com/api/character/avatar/65.jpeg"
+    },
+    {
+        "id": 66,
+        "name": "Coach Feratu (Balik Alistane)",
+        "origin": "Earth (Replacement Dimension)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/66.jpeg"
+    },
+    {
+        "id": 67,
+        "name": "Collector",
+        "origin": "The Menagerie",
+        "image": "https://rickandmortyapi.com/api/character/avatar/67.jpeg"
+    },
+    {
+        "id": 68,
+        "name": "Colossus",
+        "origin": "Post-Apocalyptic Earth",
+        "image": "https://rickandmortyapi.com/api/character/avatar/68.jpeg"
+    },
+    {
+        "id": 69,
+        "name": "Commander Rick",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/69.jpeg"
+    },
+    {
+        "id": 70,
+        "name": "Concerto",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/70.jpeg"
+    },
+    {
+        "id": 71,
+        "name": "Conroy",
+        "origin": "Earth (Replacement Dimension)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/71.jpeg"
+    },
+    {
+        "id": 72,
+        "name": "Cool Rick",
+        "origin": "Earth (K-83)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/72.jpeg"
+    },
+    {
+        "id": 73,
+        "name": "Cop Morty",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/73.jpeg"
+    },
+    {
+        "id": 74,
+        "name": "Cop Rick",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/74.jpeg"
+    },
+    {
+        "id": 75,
+        "name": "Courier Flap",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/75.jpeg"
+    },
+    {
+        "id": 76,
+        "name": "Cousin Nicky",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/76.jpeg"
+    },
+    {
+        "id": 77,
+        "name": "Cowboy Morty",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/77.jpeg"
+    },
+    {
+        "id": 78,
+        "name": "Cowboy Rick",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/78.jpeg"
+    },
+    {
+        "id": 79,
+        "name": "Crab Spider",
+        "origin": "Hideout Planet",
+        "image": "https://rickandmortyapi.com/api/character/avatar/79.jpeg"
+    },
+    {
+        "id": 80,
+        "name": "Creepy Little Girl",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/80.jpeg"
+    },
+    {
+        "id": 81,
+        "name": "Crocubot",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/81.jpeg"
+    },
+    {
+        "id": 82,
+        "name": "Cronenberg Rick",
+        "origin": "Cronenberg Earth",
+        "image": "https://rickandmortyapi.com/api/character/avatar/82.jpeg"
+    },
+    {
+        "id": 83,
+        "name": "Cronenberg Morty",
+        "origin": "Cronenberg Earth",
+        "image": "https://rickandmortyapi.com/api/character/avatar/83.jpeg"
+    },
+    {
+        "id": 84,
+        "name": "Cult Leader Morty",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/84.jpeg"
+    },
+    {
+        "id": 85,
+        "name": "Cyclops Morty",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/85.jpeg"
+    },
+    {
+        "id": 86,
+        "name": "Cyclops Rick",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/86.jpeg"
+    },
+    {
+        "id": 87,
+        "name": "Cynthia",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/87.jpeg"
+    },
+    {
+        "id": 88,
+        "name": "Cynthia",
+        "origin": "Earth (Replacement Dimension)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/88.jpeg"
+    },
+    {
+        "id": 89,
+        "name": "Dale",
+        "origin": "Giant's Town",
+        "image": "https://rickandmortyapi.com/api/character/avatar/89.jpeg"
+    },
+    {
+        "id": 90,
+        "name": "Daron Jefferson",
+        "origin": "Unity's Planet",
+        "image": "https://rickandmortyapi.com/api/character/avatar/90.jpeg"
+    },
+    {
+        "id": 91,
+        "name": "David Letterman",
+        "origin": "Earth (C-500A)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/91.jpeg"
+    },
+    {
+        "id": 92,
+        "name": "Davin",
+        "origin": "Earth (C-137)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/92.jpeg"
+    },
+    {
+        "id": 93,
+        "name": "Diablo Verde",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/93.jpeg"
+    },
+    {
+        "id": 94,
+        "name": "Diane Sanchez",
+        "origin": "Earth (C-137)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/94.jpeg"
+    },
+    {
+        "id": 95,
+        "name": "Dipper and Mabel Mortys",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/95.jpeg"
+    },
+    {
+        "id": 96,
+        "name": "Tuberculosis",
+        "origin": "Anatomy Park",
+        "image": "https://rickandmortyapi.com/api/character/avatar/96.jpeg"
+    },
+    {
+        "id": 97,
+        "name": "Gonorrhea",
+        "origin": "Anatomy Park",
+        "image": "https://rickandmortyapi.com/api/character/avatar/97.jpeg"
+    },
+    {
+        "id": 98,
+        "name": "Hepatitis A",
+        "origin": "Anatomy Park",
+        "image": "https://rickandmortyapi.com/api/character/avatar/98.jpeg"
+    },
+    {
+        "id": 99,
+        "name": "Hepatitis C",
+        "origin": "Anatomy Park",
+        "image": "https://rickandmortyapi.com/api/character/avatar/99.jpeg"
+    },
+    {
+        "id": 100,
+        "name": "Bubonic Plague",
+        "origin": "Anatomy Park",
+        "image": "https://rickandmortyapi.com/api/character/avatar/100.jpeg"
+    },
+    {
+        "id": 101,
+        "name": "E. Coli",
+        "origin": "Anatomy Park",
+        "image": "https://rickandmortyapi.com/api/character/avatar/101.jpeg"
+    },
+    {
+        "id": 102,
+        "name": "Donna Gueterman",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/102.jpeg"
+    },
+    {
+        "id": 103,
+        "name": "Doofus Rick",
+        "origin": "Earth (J19ζ7)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/103.jpeg"
+    },
+    {
+        "id": 104,
+        "name": "Doom-Nomitron",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/104.jpeg"
+    },
+    {
+        "id": 105,
+        "name": "Dr. Glip-Glop",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/105.jpeg"
+    },
+    {
+        "id": 106,
+        "name": "Dr. Schmidt",
+        "origin": "Roy: A Life Well Lived",
+        "image": "https://rickandmortyapi.com/api/character/avatar/106.jpeg"
+    },
+    {
+        "id": 107,
+        "name": "Dr. Wong",
+        "origin": "Earth (Replacement Dimension)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/107.jpeg"
+    },
+    {
+        "id": 108,
+        "name": "Dr. Xenon Bloom",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/108.jpeg"
+    },
+    {
+        "id": 109,
+        "name": "Duck With Muscles",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/109.jpeg"
+    },
+    {
+        "id": 110,
+        "name": "Eli",
+        "origin": "Post-Apocalyptic Earth",
+        "image": "https://rickandmortyapi.com/api/character/avatar/110.jpeg"
+    },
+    {
+        "id": 111,
+        "name": "Eli's Girlfriend",
+        "origin": "Post-Apocalyptic Earth",
+        "image": "https://rickandmortyapi.com/api/character/avatar/111.jpeg"
+    },
+    {
+        "id": 112,
+        "name": "Eric McMan",
+        "origin": "Earth (C-137)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/112.jpeg"
+    },
+    {
+        "id": 113,
+        "name": "Eric Stoltz Mask Morty",
+        "origin": "Eric Stoltz Mask Earth",
+        "image": "https://rickandmortyapi.com/api/character/avatar/113.jpeg"
+    },
+    {
+        "id": 114,
+        "name": "Ethan",
+        "origin": "Earth (C-137)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/114.jpeg"
+    },
+    {
+        "id": 115,
+        "name": "Ethan",
+        "origin": "Earth (Replacement Dimension)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/115.jpeg"
+    },
+    {
+        "id": 116,
+        "name": "Evil Beth Clone",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/116.jpeg"
+    },
+    {
+        "id": 117,
+        "name": "Evil Jerry Clone",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/117.jpeg"
+    },
+    {
+        "id": 118,
+        "name": "Evil Morty",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/118.jpeg"
+    },
+    {
+        "id": 119,
+        "name": "Evil Rick",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/119.jpeg"
+    },
+    {
+        "id": 120,
+        "name": "Evil Summer Clone",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/120.jpeg"
+    },
+    {
+        "id": 121,
+        "name": "Eyehole Man",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/121.jpeg"
+    },
+    {
+        "id": 122,
+        "name": "Fart",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/122.jpeg"
+    },
+    {
+        "id": 123,
+        "name": "Fat Morty",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/123.jpeg"
+    },
+    {
+        "id": 124,
+        "name": "Father Bob",
+        "origin": "Earth (Replacement Dimension)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/124.jpeg"
+    },
+    {
+        "id": 125,
+        "name": "Flansian",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/125.jpeg"
+    },
+    {
+        "id": 126,
+        "name": "Fleeb",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/126.jpeg"
+    },
+    {
+        "id": 127,
+        "name": "Frank Palicky",
+        "origin": "Earth (C-137)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/127.jpeg"
+    },
+    {
+        "id": 128,
+        "name": "Frankenstein's Monster",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/128.jpeg"
+    },
+    {
+        "id": 129,
+        "name": "Fulgora",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/129.jpeg"
+    },
+    {
+        "id": 130,
+        "name": "Galactic Federation President",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/130.jpeg"
+    },
+    {
+        "id": 131,
+        "name": "Gar Gloonch",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/131.jpeg"
+    },
+    {
+        "id": 132,
+        "name": "Gar's Mytholog",
+        "origin": "Nuptia 4",
+        "image": "https://rickandmortyapi.com/api/character/avatar/132.jpeg"
+    },
+    {
+        "id": 133,
+        "name": "Garblovian",
+        "origin": "Glaagablaaga",
+        "image": "https://rickandmortyapi.com/api/character/avatar/133.jpeg"
+    },
+    {
+        "id": 134,
+        "name": "Garmanarnar",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/134.jpeg"
+    },
+    {
+        "id": 135,
+        "name": "Garment District Rick",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/135.jpeg"
+    },
+    {
+        "id": 136,
+        "name": "Gazorpazorpfield",
+        "origin": "Gazorpazorp",
+        "image": "https://rickandmortyapi.com/api/character/avatar/136.jpeg"
+    },
+    {
+        "id": 137,
+        "name": "Gene",
+        "origin": "Earth (Replacement Dimension)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/137.jpeg"
+    },
+    {
+        "id": 138,
+        "name": "General Nathan",
+        "origin": "Earth (Replacement Dimension)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/138.jpeg"
+    },
+    {
+        "id": 139,
+        "name": "General Store Owner",
+        "origin": "Purge Planet",
+        "image": "https://rickandmortyapi.com/api/character/avatar/139.jpeg"
+    },
+    {
+        "id": 140,
+        "name": "Genital Washer",
+        "origin": "Post-Apocalyptic Earth",
+        "image": "https://rickandmortyapi.com/api/character/avatar/140.jpeg"
+    },
+    {
+        "id": 141,
+        "name": "Ghost in a Jar",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/141.jpeg"
+    },
+    {
+        "id": 142,
+        "name": "Gibble Snake",
+        "origin": "Resort Planet",
+        "image": "https://rickandmortyapi.com/api/character/avatar/142.jpeg"
+    },
+    {
+        "id": 143,
+        "name": "Glasses Morty",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/143.jpeg"
+    },
+    {
+        "id": 144,
+        "name": "Glenn",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/144.jpeg"
+    },
+    {
+        "id": 145,
+        "name": "Glenn",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/145.jpeg"
+    },
+    {
+        "id": 146,
+        "name": "Glexo Slim Slom",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/146.jpeg"
+    },
+    {
+        "id": 147,
+        "name": "Gobo",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/147.jpeg"
+    },
+    {
+        "id": 148,
+        "name": "Goddess Beth",
+        "origin": "Nuptia 4",
+        "image": "https://rickandmortyapi.com/api/character/avatar/148.jpeg"
+    },
+    {
+        "id": 149,
+        "name": "Gordon Lunas",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/149.jpeg"
+    },
+    {
+        "id": 150,
+        "name": "Cornvelious Daniel",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/150.jpeg"
+    },
+    {
+        "id": 151,
+        "name": "Gwendolyn",
+        "origin": "Gazorpazorp",
+        "image": "https://rickandmortyapi.com/api/character/avatar/151.jpeg"
+    },
+    {
+        "id": 152,
+        "name": "Hammerhead Morty",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/152.jpeg"
+    },
+    {
+        "id": 153,
+        "name": "Hamster In Butt",
+        "origin": "Hamster in Butt World",
+        "image": "https://rickandmortyapi.com/api/character/avatar/153.jpeg"
+    },
+    {
+        "id": 154,
+        "name": "Hamurai",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/154.jpeg"
+    },
+    {
+        "id": 155,
+        "name": "Harold",
+        "origin": "Earth (C-137)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/155.jpeg"
+    },
+    {
+        "id": 156,
+        "name": "Hemorrhage",
+        "origin": "Post-Apocalyptic Earth",
+        "image": "https://rickandmortyapi.com/api/character/avatar/156.jpeg"
+    },
+    {
+        "id": 157,
+        "name": "Hole in the Wall Where the Men Can See it All",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/157.jpeg"
+    },
+    {
+        "id": 158,
+        "name": "Hookah Alien",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/158.jpeg"
+    },
+    {
+        "id": 159,
+        "name": "Hunter",
+        "origin": "Earth (Giant Telepathic Spiders Dimension)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/159.jpeg"
+    },
+    {
+        "id": 160,
+        "name": "Hunter's Father",
+        "origin": "Earth (Giant Telepathic Spiders Dimension)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/160.jpeg"
+    },
+    {
+        "id": 161,
+        "name": "Hydrogen-F",
+        "origin": "Alphabetrium",
+        "image": "https://rickandmortyapi.com/api/character/avatar/161.jpeg"
+    },
+    {
+        "id": 162,
+        "name": "Ice-T",
+        "origin": "Alphabetrium",
+        "image": "https://rickandmortyapi.com/api/character/avatar/162.jpeg"
+    },
+    {
+        "id": 163,
+        "name": "Ideal Jerry",
+        "origin": "Nuptia 4",
+        "image": "https://rickandmortyapi.com/api/character/avatar/163.jpeg"
+    },
+    {
+        "id": 164,
+        "name": "Insurance Rick",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/164.jpeg"
+    },
+    {
+        "id": 165,
+        "name": "Investigator Rick",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/165.jpeg"
+    },
+    {
+        "id": 166,
+        "name": "Invisi-trooper",
+        "origin": "Earth (Replacement Dimension)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/166.jpeg"
+    },
+    {
+        "id": 167,
+        "name": "Izzy",
+        "origin": "Earth (Replacement Dimension)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/167.jpeg"
+    },
+    {
+        "id": 168,
+        "name": "Jackie",
+        "origin": "Gazorpazorp",
+        "image": "https://rickandmortyapi.com/api/character/avatar/168.jpeg"
+    },
+    {
+        "id": 169,
+        "name": "Jacob",
+        "origin": "Earth (C-137)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/169.jpeg"
+    },
+    {
+        "id": 170,
+        "name": "Jacqueline",
+        "origin": "Earth (Replacement Dimension)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/170.jpeg"
+    },
+    {
+        "id": 171,
+        "name": "Jaguar",
+        "origin": "Earth (Replacement Dimension)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/171.jpeg"
+    },
+    {
+        "id": 172,
+        "name": "Jamey",
+        "origin": "Earth (Replacement Dimension)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/172.jpeg"
+    },
+    {
+        "id": 173,
+        "name": "Jan-Michael Vincent",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/173.jpeg"
+    },
+    {
+        "id": 174,
+        "name": "Jerry 5-126",
+        "origin": "Earth (5-126)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/174.jpeg"
+    },
+    {
+        "id": 175,
+        "name": "Jerry Smith",
+        "origin": "Earth (C-137)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/175.jpeg"
+    },
+    {
+        "id": 176,
+        "name": "Celebrity Jerry",
+        "origin": "Earth (C-500A)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/176.jpeg"
+    },
+    {
+        "id": 177,
+        "name": "Jerry Smith",
+        "origin": "Earth (Evil Rick's Target Dimension)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/177.jpeg"
+    },
+    {
+        "id": 178,
+        "name": "Jerry's Mytholog",
+        "origin": "Nuptia 4",
+        "image": "https://rickandmortyapi.com/api/character/avatar/178.jpeg"
+    },
+    {
+        "id": 179,
+        "name": "Jessica",
+        "origin": "Earth (C-137)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/179.jpeg"
+    },
+    {
+        "id": 180,
+        "name": "Jessica",
+        "origin": "Earth (Replacement Dimension)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/180.jpeg"
+    },
+    {
+        "id": 181,
+        "name": "Jessica's Friend",
+        "origin": "Earth (C-137)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/181.jpeg"
+    },
+    {
+        "id": 182,
+        "name": "Jim",
+        "origin": "Earth (Replacement Dimension)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/182.jpeg"
+    },
+    {
+        "id": 183,
+        "name": "Johnny Depp",
+        "origin": "Earth (C-500A)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/183.jpeg"
+    },
+    {
+        "id": 184,
+        "name": "Jon",
+        "origin": "Gazorpazorp",
+        "image": "https://rickandmortyapi.com/api/character/avatar/184.jpeg"
+    },
+    {
+        "id": 185,
+        "name": "Joseph Eli Lipkip",
+        "origin": "Earth (Replacement Dimension)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/185.jpeg"
+    },
+    {
+        "id": 186,
+        "name": "Joyce Smith",
+        "origin": "Earth (C-137)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/186.jpeg"
+    },
+    {
+        "id": 187,
+        "name": "Juggling Rick",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/187.jpeg"
+    },
+    {
+        "id": 188,
+        "name": "Karen Entity",
+        "origin": "Unity's Planet",
+        "image": "https://rickandmortyapi.com/api/character/avatar/188.jpeg"
+    },
+    {
+        "id": 189,
+        "name": "Katarina",
+        "origin": "Earth (Replacement Dimension)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/189.jpeg"
+    },
+    {
+        "id": 190,
+        "name": "Keara",
+        "origin": "Krootabulon",
+        "image": "https://rickandmortyapi.com/api/character/avatar/190.jpeg"
+    },
+    {
+        "id": 191,
+        "name": "Kevin",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/191.jpeg"
+    },
+    {
+        "id": 192,
+        "name": "King Flippy Nips",
+        "origin": "Pluto",
+        "image": "https://rickandmortyapi.com/api/character/avatar/192.jpeg"
+    },
+    {
+        "id": 193,
+        "name": "King Jellybean",
+        "origin": "Fantasy World",
+        "image": "https://rickandmortyapi.com/api/character/avatar/193.jpeg"
+    },
+    {
+        "id": 194,
+        "name": "Kozbian",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/194.jpeg"
+    },
+    {
+        "id": 195,
+        "name": "Kristen Stewart",
+        "origin": "Earth (C-500A)",
+        "image": "https://rickandmortyapi.com/api/character/avatar/195.jpeg"
+    },
+    {
+        "id": 196,
+        "name": "Krombopulos Michael",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/196.jpeg"
+    },
+    {
+        "id": 197,
+        "name": "Kyle",
+        "origin": "Zeep Xanflorp's Miniverse",
+        "image": "https://rickandmortyapi.com/api/character/avatar/197.jpeg"
+    },
+    {
+        "id": 198,
+        "name": "Lady Katana",
+        "origin": "unknown",
+        "image": "https://rickandmortyapi.com/api/character/avatar/198.jpeg"
+    },
+    {
+        "id": 199,
+        "name": "Larva Alien",
+        "origin": "Larva Alien's Planet",
+        "image": "https://rickandmortyapi.com/api/character/avatar/199.jpeg"
+    }
+]

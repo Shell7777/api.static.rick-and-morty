@@ -1,0 +1,17 @@
+{
+  "name": "api-rickymorty",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\"",
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "type": "commonjs"
+}
