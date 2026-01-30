@@ -5,7 +5,26 @@ on:
     branches: ["main"]
 
 jobs:
+  quality:
+    name: Code Quality (SonarCloud)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+      - name: Install dependencies
+        run: npm ci --omit=dev
+      - name: SonarCloud Scan
+        uses: SonarSource/sonarcloud-github-action@v2
+        env:
+          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+        with:
+          organization: ${{ secrets.SONAR_ORG }}
+          projectKey: ${{ secrets.SONAR_PROJECT_KEY }}
   deploy:
+    name: Devlopment
+    needs: quality
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
@@ -15,9 +34,9 @@ jobs:
         with:
           node-version: 24
       - name: Install dependencies
-        run: npm install
+        run: npm ci --omit=dev
       - name: Zip Lambda package
-        run: zip -r lambda.zip . -x "*.git*" "node_modules/.cache/*"
+        run: zip -r lambda.zip . -x "*.git*" "node_modules/.cache/*"  -x ".github/*" -x "*.env"
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v4
         with:
