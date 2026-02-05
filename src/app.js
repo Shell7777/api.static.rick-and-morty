@@ -1,26 +1,26 @@
 const express = require("express");
 const data = require("./data.json")
+const logger = require("./logger"); 
+const app = express();
 
-const PORT = process.env.PORT || 3003;
+app.get("/", (_, res) => {
+  logger.info("Health check hit");
+  res.send("🚀 Deploy successfully");
+});
 
-  const app = express();
+app.get("/api/person", (_, res) => {
+  logger.info("Health check hit");
+  res.json(data);
+});
 
-  app.get("/", (_, res) => {
-    res.send("🚀 Deploy successfully");
-  });
-
-  app.get("/api/person", (_, res) => {
-    res.json(data);
-  });
-
-  app.get("/api/person/:id", (req, res) => {
-    const { id } = req.params;
-    const found = data.find((item) => item.id === id);
-    if (found) {
-      res.json(found);
-    } else {
-      res.status(404).json({ error: "Person not found" });
-    }
-  });
-  module.exports = app ;
+app.get("/api/person/:id", (req, res) => {
+  const { id } = req.params;
+  const found = data.find((item) => item.id === id);
+  if (found) {
+    res.json(found);
+  } else {
+    res.status(404).json({ error: "Person not found" });
+  }
+});
+module.exports = app;
 
