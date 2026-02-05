@@ -7,7 +7,7 @@
 ![SonarCloud](https://img.shields.io/badge/SonarCloud-Quality-yellow?logo=sonarcloud)
 ![Versión](https://img.shields.io/badge/version-1.0.0-blue)
 
-API REST serverless que proporciona información sobre personajes de la serie Rick and Morty. Desplegada en AWS Lambda con arquitectura serverless, diseñada para alta disponibilidad y escalabilidad automática.
+API REST Monolito serverless que proporciona información sobre personajes de la serie Rick and Morty. Desplegada en AWS Lambda con arquitectura serverless, diseñada para alta disponibilidad y escalabilidad automática.
 
 ## 📋 Tabla de Contenidos
 
